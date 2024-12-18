@@ -1,0 +1,9 @@
+[submodule "vite-plugin-single-spa-react-mfe2"]
+	path = vite-plugin-single-spa-react-mfe2
+	url = https://github.com/ashutoshmobius/vite-plugin-single-spa-react-mfe2
+[submodule "vite-plugin-single-spa-root-config"]
+	path = vite-plugin-single-spa-root-config
+	url = https://github.com/ashutoshmobius/vite-plugin-single-spa-root-config
+[submodule "vite-plugin-single-spa-svelte-mfe1"]
+	path = vite-plugin-single-spa-svelte-mfe1
+	url = https://github.com/ashutoshmobius/vite-plugin-single-spa-svelte-mfe1
